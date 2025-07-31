@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WOWyMrmJWSaV36xCGq+AtDtrAvCF1+gOOD4iRa/vvN0=",
+  "Source": "SecureApiJwtAuth",
+  "BasePath": "_content/SecureApiJwtAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
